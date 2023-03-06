@@ -1,3 +1,5 @@
+-- Calculates the integer log_2 of the given input n
+
 intLog :: Int -> Int
 intLog n
   | n < 2     = 0
